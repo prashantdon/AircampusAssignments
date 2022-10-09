@@ -1,0 +1,44 @@
+.toDoList{
+    background-color: rgb(15, 241, 15);
+    font-size: 100px;
+    color: black;
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.items{
+    font-size: 50px;
+    margin-left: 15%;
+    padding: 1%;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    border: 1px;
+    border-color: black;
+    
+}
+form {
+
+    display:flex;
+    border:1px solid grey;
+    padding:2px;
+    
+  }
+  
+  .input {
+    flex-grow:1;
+    border:none;
+    font-size: large;
+    margin-right: 25px;
+  }
+  
+ 
+  .button {
+    
+    border:1px solid blue;
+    background-color: green;
+    color:white;
+    margin-right: 5px;
+    font-size: 25px;
+  }
+  .button2{
+    background-color: red;
+    font-size: 25px;
+  }
