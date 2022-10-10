@@ -1,0 +1,82 @@
+.Assignment3{
+    text-align: center;
+    background-color:lightseagreen;
+    font-size: 45px;
+    font-family: Arial;
+    color: white;
+}
+.img1{
+    height: 250px;
+    border: solid 20px;
+    border-color: lightseagreen;
+    margin-left: 10%;
+    margin-right: 0%;
+}
+.img2{
+    height: 250px;
+    border: dashed 20px;
+    border-color: lightseagreen;
+    margin-left: 10%;
+    margin-right: 0%;
+    width: 400px;
+}
+.img3{
+    height: 250px;
+    border: dotted 20px;
+    border-color: lightseagreen;
+    margin-left: 10%;
+    margin-right: 0%;
+    width: 400px;
+}
+.img4{
+    height: 250px;
+    border: ridge 25px;
+    border-color: lightseagreen;
+    margin-left: 25%;
+
+    width: 400px;
+}
+.img5{
+    height: 250px;
+    border: groove 25px;
+    border-color: lightseagreen;
+    margin-left: 10%;
+    margin-right: 0%;
+    width: 400px;
+}
+.img6{
+    height: 250px;
+    border: double 25px;
+    border-color: lightseagreen;
+    margin-left: 25%;
+    /* margin-right: 0%; */
+    width: 400px;
+}
+.img7{
+    height: 300px;
+    border: none
+    border-color: lightseagreen;
+    margin-left: 10%;
+    /* margin-right: 0%; */
+    width: 450px;
+}
+.div{
+    border: solid 20px;
+    border-color: green rgb(241, 11, 211) blue red;
+    margin-left: 10%;
+    margin-right: 10%;
+    font-size: 40px;
+    color: white;
+    background-color: lightseagreen;
+}
+.div1{
+    border: solid 1px;
+    background-color: lightseagreen;
+    font-size: 40px;
+    text-align: center;
+    height: 80px;
+    font-family: 'Courier New', Courier, monospace;
+    padding: 2%;
+    
+    
+}
